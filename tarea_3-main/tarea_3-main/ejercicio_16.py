@@ -1,0 +1,1 @@
+# Calcular el tiempo (en minutos) en que un vehículo más rápido alcanza a otro, dada la distancia d y velocidades v1 y v2.

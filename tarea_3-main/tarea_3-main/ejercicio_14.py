@@ -1,0 +1,1 @@
+# Invertir un número de dos cifras (ejemplo: 23 → 32)

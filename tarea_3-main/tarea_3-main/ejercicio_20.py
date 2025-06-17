@@ -1,0 +1,1 @@
+# Calcular el dinero total en euros y céntimos a partir de monedas de 2€, 1€, 50¢, 20¢ y 10¢.
