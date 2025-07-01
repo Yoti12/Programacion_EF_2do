@@ -6,12 +6,14 @@ ventana = turtle. Screen()
 ventana.title("Recolector de Estrellas")
 ventana.bgcolor("black")
 ventana.setup(width=600 , height=600)
+
 # # Jugador
 jugador = turtle.Turtle()
 jugador.shape("turtle")
 jugador.color("white")
 jugador.penup()
 jugador.speed(0)
+
 ## Estrella (objetivo)
 estrella = turtle. Turtle()
 estrella.shape("circle")
@@ -27,6 +29,7 @@ texto.penup()
 texto.color("white")
 texto.goto (0,260)
 texto.write("Puntaje: 0", align="center", font=("Arial", 16, "bold"))
+
 # Movimiento
 def arriba():
     y = jugador.ycor()
