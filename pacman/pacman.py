@@ -4,9 +4,9 @@ import random
 
 # --- Configuración inicial de la pantalla ---
 ventana = turtle.Screen()
-ventana.title("Mini Pac-Man Nivel 1")
+ventana.title("Pac-Man")
 ventana.bgcolor("black")
-ventana.setup(width=700, height=700)
+ventana.setup(width=900, height=700)
 ventana.tracer(0)
 
 # --- Creación de los actores del juego ---
